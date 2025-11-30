@@ -43,7 +43,7 @@
             canvas_height: 1200,
             icon: "assets/304881/2025/11/icon_20251107173953690e2ee9a0aca.png",
             base_url: "",
-            data_url: typeof meikerioDataJson === 'function' ? meikerioDataJson() : "./data.json",
+            data_url: typeof meikerioDataJson === 'function' ? meikerioDataJson() : "data.json",
             thumbnails: true,
             hideSaveBtn: true,
             theme: {},
@@ -53,11 +53,7 @@
     })(window, document, 'meikerioLoader')
     </script>
 
-    
-        <link href=static/player/css/app.7fc948e1.css rel=prefetch as=style>
-    <link href=static/player/js/app.c0231d7b.js rel=prefetch as=script>
-    <link href=static/player/js/chunk-vendors.0c74fe65.js rel=prefetch as=script>
-    <link href=static/player/css/app.7fc948e1.css rel=stylesheet>
+    <link href="static/player/css/app.7fc948e1.css" rel="stylesheet">
   </head>
   <body class="full-page">
         <noscript>
@@ -68,10 +64,11 @@
         </span>
       </div>
     </noscript>
-    <div id="app"></div>
-    <script defer="defer" src="./static/data.js"></script>
 
-<script defer="defer" src=static/player/js/chunk-vendors.0c74fe65.js></script>
-<script defer="defer" src=static/player/js/app.c0231d7b.js></script>
+    <div id="app"></div>
+
+    <script src="static/data.js" defer></script>
+    <script src="static/player/js/chunk-vendors.0c74fe65.js" defer></script>
+    <script src="static/player/js/app.c0231d7b.js" defer></script>
   </body>
 </html>
