@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60">
+<defs>
+<path id="catLogo_0_Layer1_0_1_STROKES" stroke="#FFFFFF" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -61 -11.5
+Q -63.459375 -7.3044921875 -63.95 -2.35 -64.1 -1.05 -64.1 0.2 -64.05 8 -58.5 13.5 -52.9833984375 19.0166015625 -40 19.85 -37.9208984375 19.9861328125 -35.65 20 -31.6548828125 20.0244140625 -28.2 19.65 -17.4716796875 18.4921875 -11.95 13.5 -5.7 7.8 -5.9 0.2 -5.95 -1 -6.15 -2.25 -6.3986328125 -3.812890625 -6.825 -5.3 -7.1216796875 -6.317578125 -7.5 -7.3 -8.136328125 -8.9234375 -9 -10.45
+M -44.75 -23.8
+Q -40.3 -25.1 -35.1 -25.05 -30.25 -25.05 -26.1 -23.9"/>
+
+<path id="catheadside_0_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 10 -12.95
+Q 20.3587890625 -25.2248046875 23.9 -25.65 28.369921875 -17.64609375 25.9 -0.6
+M 22.7 14.65
+L 35.1 16.1
+M 6.3 6.25
+Q 7 5.05 8 4.3 9.95 2.7 13.1 2.6 14.65 2.65 15.75 3.05 17.1 3.6 17.85 4.7
+M 19.6 21.25
+L 29.8 25.2"/>
+</defs>
+
+<g transform="matrix( 0.7945404052734375, 0, 0, 0.7945404052734375, 57.95,36.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#catLogo_0_Layer1_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -35.15,-10.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#catheadside_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, -35.15,-10.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#catheadside_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</svg>
